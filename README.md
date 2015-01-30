@@ -1,4 +1,4 @@
-# lucky-start
+
 infix to postfix evaluator
 -just converts a simple arithmetic to postfix and prints the result 
 
